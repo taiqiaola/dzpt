@@ -1,0 +1,7 @@
+{
+    // "url": "http://192.168.0.77:8080/dzpt/",
+    // "url": "http://www.njdzzh.gov.cn/",
+    // 自动刷新时间，单位：毫秒
+    "url": "http://202.102.86.54/dzpt/",
+    "refresh_time": 10000
+}

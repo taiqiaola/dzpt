@@ -1,0 +1,9 @@
+-keep class com.dzpt.MainApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.amap.api.location.APSService { <init>(); }
+-keep class com.dzpt.MainActivity { <init>(); }
+-keep class com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+-keep class android.support.v4.content.FileProvider { <init>(); }
+-keep class com.yalantis.ucrop.UCropActivity { <init>(); }

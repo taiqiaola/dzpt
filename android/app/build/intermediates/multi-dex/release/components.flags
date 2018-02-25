@@ -1,0 +1,58 @@
+-injars /Users/niukai/MyApp/Dzpt/android/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
+-outjars /Users/niukai/MyApp/Dzpt/android/app/build/intermediates/multi-dex/release/componentClasses.jar
+
+-libraryjars /Users/niukai/Library/Android/sdk/build-tools/23.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/niukai/MyApp/Dzpt/android/app/build/intermediates/multi-dex/release/components.flags
+
+
+-keep class com.dzpt.MainApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.dzpt.MainActivity {
+    <init>();
+}
+
+-keep class com.facebook.react.devsupport.DevSettingsActivity {
+    <init>();
+}
+
+-keep class android.support.v4.content.FileProvider {
+    <init>();
+}
+
+-keep class com.yalantis.ucrop.UCropActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

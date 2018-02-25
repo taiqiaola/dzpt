@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_90716ff1757fb8d318c0c2396cdc4f5db7a25187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_96f87577622c26828fcc6822e7c283ba297768e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_8b96357d61aaebdc485908c6c6e557e0ca5c638f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.amap.api/navi-3dmap/5.3.0_3dmap5.3.0/5efddf73e99ccd39311bd841ef72c10c21bfd58c/navi-3dmap-5.3.0_3dmap5.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5efddf73e99ccd39311bd841ef72c10c21bfd58c">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/navi-3dmap-5.3.0_3dmap5.3.0_2985ced6e9c3e62a1f56621ae6a62a61614d8567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6ede58a0b3c8fab7e3707ddff6006c19306e47fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_201ea5da89a7d839b08073c4b3a3bcfbd1c4e1f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f0965dd54a88b2097afcf567f11c047ef850ef96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b3c93bc0938ab3b5cdf49c1c5ba0da61dafb54cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_4b6c934adc73a4a860a4da851bf21a36f7054af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_e42252dd6035658c2becd77c75651e0dd9975b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b422ac2e8bb8d5faeb16f316a813ad20bcc7aaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6941fd3131b4764ea11ab55c78c72576d5078da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_38c317a5d858907ad0796922b5f19fbd321a5d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.51_c6f03d20132981499f1fe16d9775005cdf050f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f3aac6bc1b6de677b4ac8769b78073f01760257e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8176a6f519ac501c1c4ac9d4d6ac4dc9cdeedee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_228a3a9446e712d03058b6f1dcd5d56d0a270e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/Dzpt/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="79f9276d078957009fbec7b17228af18118467f0">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/Dzpt-react-native-image-crop-picker-unspecified_fc40e6ce3d4a7172f47f0e1d77915f0b9efa0e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_9a4cfe0f076840beb45f41e7c414b604b628b3df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_4302d4480bd1667590f7bd96052ee504ef81858a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_cfb2307a5d4c85394f3fa9d1906757b033407c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_33f30a4f38a7ec95510de4dbc7ad51496f3bdbc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/Dzpt/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="89130388da2ea73dd7ef12caea950c8abab7d44e">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/Dzpt-react-native-fetch-blob-unspecified_4eef71d7037dab119dd63c35119eb60513dc6303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8a8fc535627acf7823b3b55d8e84f5e66a73a499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/Dzpt/react-native-amap3d/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0eb863c5cdc18f3ab52db0ffb1cb945a486ca61d">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/Dzpt-react-native-amap3d-unspecified_186d7d3d4bae868680ac7a604f31051d9d03d132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_168d3dcb73d5cea6f11f6a7a5a706149a222083d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_ebdf4b01aaf438f55c49df9d5c674426b1b0909e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_a150ee9c32252ae468189cf3c351b45eb887525a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_068100dd0139e797327ecdbfa2d2cb9e46591553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.51/8b5933578dc55f32cfc1a25f1db6371e4161fb8f/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.51_cf184473bb5f7666dff5a73608cbfa2f2afda5d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1d6e4719a089a53c4cc26f8fef627ab3a5b080ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/Dzpt/react-native-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b45aab175084268ca0ab35ff7fb649d2c1152f36">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/Dzpt-react-native-picker-unspecified_ebe81b8040faddf0e4017ddb1dc8eed243628430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_81f6f67e9b09e9d0621b5ebcc1372ddca578951c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1774832a1befd89a391d84d1d76243cc6b593664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4512ee6e187ddee7131df657713e3561848bc76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/Dzpt/react-native-baidu-map/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0c0481d29a183224a2c55d46b0f0a2ca09bfd72c">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/Dzpt-react-native-baidu-map-unspecified_88cbd7c4cc5fa6d6cf29c3666222f066fd14b3b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1f2b9eabfb1ea946b2a4ede88776850302f4145a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f1b5d205032e4bcb7f4cd797a208ae86ae252bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.yalantis-ucrop-2.2.0-native_f3f33cd2494e3513b28b384ebe8b27f0c666e900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_d1effe26572d71b99701c4a7d0439ef503d2f918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_174bf3d6cbc4142c087dde770c884c26a84c1b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/annotations-13.0_41258feec8b810a5266230dd105d40930d82fec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_bd77b0b66ca18fe2e038790cffa97009bf3dfd32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/Dzpt/react-native-baidu-map/unspecified/jars/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fdcc8f3333d680ba5e7fbd0d4907ab72d4d20c3e">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android_639309b0cf27e67c323ec4d770170e774102a0cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_8b9b06dde219ffef2f9665a4e0c31ceaa74a00c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niukai/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/niukai/Desktop/Dzpt/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_60454d725a0c60d9b1c29d4d17b37ea42533fbc3.jar" />
+    </item>
+
+</items>
